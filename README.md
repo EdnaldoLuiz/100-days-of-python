@@ -3,7 +3,7 @@
 | Dia | Desafio | Recursos | Status |
 |-----|---------|----------|--------|
 | 1   | Criando a estrutura dos 100 desafios programaticamente. | os | ✅ |
-| 2   | Formatando datas e horas usando datetime. | datetime | - |
+| 2   | Formatando datas e horas usando datetime. | datetime | ✅ |
 | 3   | Removendo itens de uma lista com base em uma condição. | - | - |
 | 4   | Executando uma tarefa de forma assíncrona com asyncio. | asyncio | - |
 | 5   | Filtrando dados de um dicionário com compreensão de dicionário. | - | - |
