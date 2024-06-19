@@ -7,7 +7,7 @@
 | 3   | Removendo itens de uma lista com base em uma condição. | - | ✅ |
 | 4   | Executando uma tarefa de forma assíncrona com asyncio. | asyncio | ✅ |
 | 5   | Filtrando dados de um dicionário com compreensão de dicionário. | - | ✅ |
-| 6   | Lendo e gravando arquivos CSV com a biblioteca pandas. | pandas | - |
+| 6   | Lendo e gravando arquivos CSV com a biblioteca pandas. | pandas | ✅ |
 | 7   | Criando e manipulando conjuntos (sets) para operações matemáticas. | - | - |
 | 8   | Criando um pool de processos com multiprocessing. | multiprocessing | - |
 | 9   | Trabalhando com Enums valorizados em Python. | Enum | - |
