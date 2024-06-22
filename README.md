@@ -10,7 +10,7 @@
 | 6   | Lendo e gravando arquivos CSV com a biblioteca pandas. | pandas | ✅ |
 | 7   | Criando e manipulando conjuntos (sets) para operações matemáticas. | - | ✅ |
 | 8   | Criando um pool de processos com multiprocessing. | multiprocessing | ✅ |
-| 9   | Trabalhando com Enums valorizados em Python. | Enum | - |
+| 9   | Trabalhando com Enums valorizados em Python. | Enum | ✅ |
 | 10  | Ordenando um dicionário por seus valores usando sorted. | sorted | - |
 | 11  | Trabalhando com listas aninhadas e compreensão de listas. | - | - |
 | 12  | Criando e consumindo um gerador com `yield`. | - | - |
