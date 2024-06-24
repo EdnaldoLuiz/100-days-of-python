@@ -12,7 +12,7 @@
 | 8   | Criando um pool de processos com multiprocessing. | multiprocessing | ✅ |
 | 9   | Trabalhando com Enums valorizados em Python. | Enum | ✅ |
 | 10  | Ordenando um dicionário por seus valores usando sorted. | sorted | ✅ |
-| 11  | Trabalhando com listas aninhadas e compreensão de listas. | - | - |
+| 11  | Trabalhando com listas aninhadas e compreensão de listas. | - | ✅ |
 | 12  | Criando e consumindo um gerador com `yield`. | - | - |
 | 13  | Manipulando arquivos JSON: leitura e gravação. | json | - |
 | 14  | Criando classes com métodos e atributos em Python. | - | - |
