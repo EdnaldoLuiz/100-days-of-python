@@ -14,7 +14,7 @@
 | 10  | Ordenando um dicionário por seus valores usando sorted. | sorted | ✅ |
 | 11  | Trabalhando com listas aninhadas e compreensão de listas. | - | ✅ |
 | 12  | Criando e consumindo um gerador com `yield`. | - | ✅ |
-| 13  | Manipulando arquivos JSON: leitura e gravação. | json | - |
+| 13  | Manipulando arquivos JSON: leitura e gravação. | json | ✅ |
 | 14  | Criando classes com métodos e atributos em Python. | - | - |
 | 15  | Lendo e manipulando arquivos texto em Python. | open | - |
 | 16  | Trabalhando com regular expressions para validação de dados. | re | - |
