@@ -17,7 +17,7 @@
 | 13  | Manipulando arquivos JSON: leitura e gravação. | json | ✅ |
 | 14  | Criando classes com métodos e atributos em Python. | - | ✅ |
 | 15  | Lendo e manipulando arquivos texto em Python. | open | ✅ | 
-| 16  | Trabalhando com regular expressions para validação de dados. | re | - |
+| 16  | Trabalhando com regular expressions para validação de dados. | re | ✅ |
 | 17  | Realizando requisições HTTP e consumindo APIs REST. | requests | - |
 | 18  | Trabalhando com compressão e descompressão de arquivos. | zipfile, gzip | - |
 | 19  | Manipulando imagens com a biblioteca Pillow. | Pillow | - |
