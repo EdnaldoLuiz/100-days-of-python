@@ -20,7 +20,7 @@
 | 16  | Trabalhando com regular expressions para validação de dados. | re | ✅ |
 | 17  | Realizando requisições HTTP e consumindo APIs REST. | requests | ✅ |
 | 18  | Trabalhando com compressão e descompressão de arquivos. | zipfile, gzip | ✅ |
-| 19  | Manipulando imagens com a biblioteca Pillow. | Pillow | - |
+| 19  | Manipulando imagens com a biblioteca Pillow. | Pillow | ✅ |
 | 20  | Criando gráficos simples com Matplotlib. | Matplotlib | - |
 | 21  | Criando e manipulando um deque para operações de pilha e fila. | collections | - |
 | 22  | Trabalhando com operadores personalizados para classes. | __str__, __add__, etc. | - |
