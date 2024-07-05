@@ -23,7 +23,7 @@
 | 19  | Manipulando imagens com a biblioteca Pillow. | Pillow | ✅ |
 | 20  | Criando gráficos simples com Matplotlib. | Matplotlib | ✅ |
 | 21  | Criando e manipulando um deque para operações de pilha e fila. | collections | ✅ |
-| 22  | Trabalhando com operadores personalizados para classes. | __str__, __add__, etc. | - |
+| 22  | Trabalhando com operadores personalizados para classes. | __str__, __add__, etc. | ✅ |
 | 23  | Ordenando listas de dicionários com `sorted` e lambdas. | sorted, lambda | - |
 | 24  | Criando e manipulando dataclasses para representar objetos. | dataclasses | - |
 | 25  | Trabalhando com context managers e o comando `with`. | - | - |
