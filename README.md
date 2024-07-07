@@ -25,7 +25,7 @@
 | 21  | Criando e manipulando um deque para operações de pilha e fila. | collections | ✅ |
 | 22  | Trabalhando com operadores personalizados para classes. | __str__, __add__, etc. | ✅ |
 | 23  | Ordenando listas de dicionários com `sorted` e lambdas. | sorted, lambda | ✅ |
-| 24  | Criando e manipulando dataclasses para representar objetos. | dataclasses | - |
+| 24  | Criando e manipulando dataclasses para representar objetos. | dataclasses | ✅ |
 | 25  | Trabalhando com context managers e o comando `with`. | - | - |
 | 26  | Criando e manipulando conjuntos imutáveis com `frozenset`. | frozenset | - |
 | 27  | Criando um servidor HTTP básico com Python. | http.server | - |
