@@ -26,7 +26,7 @@
 | 22  | Trabalhando com operadores personalizados para classes. | __str__, __add__, etc. | ✅ |
 | 23  | Ordenando listas de dicionários com `sorted` e lambdas. | sorted, lambda | ✅ |
 | 24  | Criando e manipulando dataclasses para representar objetos. | dataclasses | ✅ |
-| 25  | Trabalhando com context managers e o comando `with`. | - | - |
+| 25  | Trabalhando com context managers e o comando `with`. | - | ✅ |
 | 26  | Criando e manipulando conjuntos imutáveis com `frozenset`. | frozenset | - |
 | 27  | Criando um servidor HTTP básico com Python. | http.server | - |
 | 28  | Lidando com exceções personalizadas em Python. | try, except | - |
