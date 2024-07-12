@@ -29,7 +29,7 @@
 | 25  | Trabalhando com context managers e o comando `with`. | - | ✅ |
 | 26  | Criando e manipulando conjuntos imutáveis com `frozenset`. | frozenset | ✅ |
 | 27  | Criando um servidor HTTP básico com Python. | http.server | ✅ |
-| 28  | Lidando com exceções personalizadas em Python. | try, except | - |
+| 28  | Lidando com exceções personalizadas em Python. | try, except | ✅ |
 | 29  | Lendo e manipulando bancos de dados MySQl. | mysql | - |
 | 30  | Trabalhando com logs e configurando um logger. | logging | - |
 | 31  | Criando funções recursivas para calcular fatorial e sequência de Fibonacci. | - | - |
