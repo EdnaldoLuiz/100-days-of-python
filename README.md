@@ -32,7 +32,7 @@
 | 28  | Lidando com exceções personalizadas em Python. | try, except | ✅ |
 | 29  | Lendo e manipulando bancos de dados MySQl. | mysql | ✅ |
 | 30  | Trabalhando com logs e configurando um logger. | logging | ✅ |
-| 31  | Criando funções recursivas para calcular fatorial e sequência de Fibonacci. | - | - |
+| 31  | Criando funções recursivas para calcular fatorial e sequência de Fibonacci. | - | ✅ |
 | 32  | Trabalhando com argumentos variáveis (`*args` e `**kwargs`) em funções. | - | - |
 | 33  | Manipulando filas de prioridade com `heapq`. | heapq | - |
 | 34  | Implementando uma calculadora de expressões matemáticas usando `eval`. | eval | - |
