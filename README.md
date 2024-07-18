@@ -35,7 +35,7 @@
 | 31  | Criando funções recursivas para calcular fatorial e sequência de Fibonacci. | - | ✅ |
 | 32  | Trabalhando com argumentos variáveis (`*args` e `**kwargs`) em funções. | - |  ✅ |
 | 33  | Manipulando filas de prioridade com `heapq`. | heapq | ✅ |
-| 34  | Implementando uma calculadora de expressões matemáticas usando `eval`. | eval | - |
+| 34  | Implementando uma calculadora de expressões matemáticas usando `eval`. | eval | ✅ |
 | 35  | Usando decorators para modificar o comportamento de funções. | - | - |
 | 36  | Trabalhando com Threads para tarefas paralelas simples. | threading | - |
 | 37  | Criando e manipulando um arquivo Excel com a biblioteca `openpyxl`. | openpyxl | - |
