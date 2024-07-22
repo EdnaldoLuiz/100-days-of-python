@@ -39,7 +39,7 @@
 | 35  | Usando decorators para modificar o comportamento de funções. | - | ✅ |
 | 36  | Trabalhando com Threads para tarefas paralelas simples. | threading | ✅ |
 | 37  | Criando e manipulando um arquivo Excel com a biblioteca `openpyxl`. | openpyxl | ✅ |
-| 38  | Lidando com tempo e atrasos usando `time.sleep`. | time | - |
+| 38  | Lidando com tempo e atrasos usando `time.sleep`. | time | ✅ |
 | 39  | Criando um servidor simples com `socket` e trocando mensagens. | socket | - |
 | 40  | Gerenciando variáveis de ambiente com `os.environ`. | os | - |
 | 41  | Criando e manipulando gráficos interativos com Plotly. | plotly | - |
