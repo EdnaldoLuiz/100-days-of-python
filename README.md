@@ -43,7 +43,7 @@
 | 39  | Criando um servidor simples com `socket` e trocando mensagens. | socket | ✅ |
 | 40  | Gerenciando variáveis de ambiente com `os.environ`. | os | ✅ |
 | 41  | Criando e manipulando gráficos interativos com Plotly. | plotly | ✅ |
-| 42  | Gerenciando arquivos e diretórios com a biblioteca pathlib. | pathlib | - |
+| 42  | Gerenciando arquivos e diretórios com a biblioteca pathlib. | pathlib | ✅ |
 | 43  | Criando um sistema simples de autenticação com hashing de senhas. | hashlib | - |
 | 44  | Trabalhando com data e hora em diferentes fusos horários. | pytz | - |
 | 45  | Enviando e-mails com a biblioteca smtplib. | smtplib | - |
