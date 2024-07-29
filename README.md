@@ -46,7 +46,7 @@
 | 42  | Gerenciando arquivos e diretórios com a biblioteca pathlib. | pathlib | ✅ |
 | 43  | Criando um sistema simples de autenticação com hashing de senhas. | hashlib | ✅ |
 | 44  | Trabalhando com data e hora em diferentes fusos horários. | pytz | ✅ |
-| 45  | Enviando e-mails com a biblioteca smtplib. | smtplib | - |
+| 45  | Enviando e-mails com a biblioteca smtplib. | smtplib | ✅ |
 | 46  | Criando uma API REST simples com Flask. | Flask | - |
 | 47  | Explorando dados tabulares com a biblioteca pandas. | pandas | - |
 | 48  | Gerando números aleatórios para simulações e testes. | random | - |
