@@ -50,7 +50,7 @@
 | 46  | Criando uma API REST simples com Flask. | Flask | ✅ |
 | 47  | Explorando dados tabulares com a biblioteca pandas. | pandas | ✅ |
 | 48  | Gerando números aleatórios para simulações e testes. | random | ✅ |
-| 49  | Trabalhando com números complexos e operações matemáticas avançadas. | cmath | - |
+| 49  | Trabalhando com números complexos e operações matemáticas avançadas. | cmath | ✅ |
 | 50  | Criando uma interface gráfica simples com tkinter. | tkinter | - |
 | 51  | Gerando códigos QR com a biblioteca qrcode. | qrcode | - |
 | 52  | Criando um bot simples para Telegram. | telebot | - |
