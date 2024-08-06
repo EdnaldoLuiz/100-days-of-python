@@ -54,7 +54,7 @@
 | 50  | Criando uma interface gráfica simples com tkinter. | tkinter | ✅ |
 | 51  | Gerando códigos QR com a biblioteca qrcode. | qrcode | ✅ |
 | 52  | Criando um bot simples para Telegram. | telebot | ✅ |
-| 53  | Trabalhando com regex para encontrar e substituir padrões em arquivos. | re | - |
+| 53  | Trabalhando com regex para encontrar e substituir padrões em arquivos. | re | ✅ |
 | 54  | Gerenciando threads e filas simultaneamente com queue. | threading, queue | - |
 | 55  | Lidando com operações de ponto flutuante com precisão. | decimal | - |
 | 56  | Criando e verificando arquivos zip protegidos por senha. | zipfile | - |
