@@ -59,7 +59,7 @@
 | 55  | Lidando com operações de ponto flutuante com precisão. | decimal | ✅ |
 | 56  | Criando e verificando arquivos zip protegidos por senha. | zipfile | ✅ |
 | 57  | Construindo um simples jogo de adivinhação com interface gráfica. | tkinter | ✅ |
-| 58  | Analisando texto e realizando contagem de palavras com NLTK. | nltk | - |
+| 58  | Analisando texto e realizando contagem de palavras com NLTK. | nltk | ✅ |
 | 59  | Criando e manipulando gráficos de rede com NetworkX. | networkx | - |
 | 60  | Extraindo dados da web com BeautifulSoup para web scraping. | BeautifulSoup | - |
 | 61  | Comparando a velocidade de vetores/matrizes nativos x numpy. | numpy | - |
