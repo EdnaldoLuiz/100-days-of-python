@@ -65,7 +65,7 @@
 | 61  | Comparando a velocidade de vetores/matrizes nativos x numpy. | numpy | ✅ |
 | 62  | Implementando um algoritmo de busca binária. | - | ✅ | 
 | 63  | Criando e manipulando um gráfico de dispersão com Seaborn. | seaborn | ✅ |
-| 64  | Trabalhando com tarefas agendadas usando a biblioteca schedule. | schedule | - |
+| 64  | Trabalhando com tarefas agendadas usando a biblioteca schedule. | schedule | ✅ |
 | 65  | Criando testes automatizados com a biblioteca unittest. | unittest | - |
 | 66  | Implementando um algoritmo de ordenação (ex: bubble sort ou quicksort). | - | - |
 | 67  | Construindo uma aplicação web básica com Django. | Django | - |
