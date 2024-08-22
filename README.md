@@ -70,7 +70,7 @@
 | 66  | Implementando um algoritmo de ordenação (ex: bubble sort ou quicksort). | - | ✅ |
 | 67  | Construindo uma aplicação web básica com Django. | Django | ✅ |
 | 68  | Criando um simulador de dados para APIs fictícias. | faker | ✅ |
-| 69  | Explorando bancos de dados não relacionais com MongoDB. | pymongo | - |
+| 69  | Explorando bancos de dados não relacionais com MongoDB. | pymongo | ✅ |
 | 70  | Criando animações básicas com Matplotlib. | Matplotlib | - |
 | 71  | Trabalhando com variáveis globais em scripts multi-thread. | threading | - |
 | 72  | Construindo gráficos interativos com Bokeh. | Bokeh | - |
