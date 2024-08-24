@@ -72,7 +72,7 @@
 | 68  | Criando um simulador de dados para APIs fictícias. | faker | ✅ |
 | 69  | Explorando bancos de dados não relacionais com MongoDB. | pymongo | ✅ |
 | 70  | Criando animações básicas com Matplotlib. | Matplotlib | ✅ |
-| 71  | Trabalhando com variáveis globais em scripts multi-thread. | threading | - |
+| 71  | Trabalhando com variáveis globais em scripts multi-thread. | threading | ✅ |
 | 72  | Construindo gráficos interativos com Bokeh. | Bokeh | - |
 | 73  | Enviando requisições HTTP simultâneas com a biblioteca aiohttp. | aiohttp | - |
 | 74  | Implementando um simples web scraper com Selenium. | Selenium | - |
