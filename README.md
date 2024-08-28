@@ -76,7 +76,7 @@
 | 72  | Construindo gráficos interativos com Bokeh. | Bokeh | ✅ |
 | 73  | Enviando requisições HTTP simultâneas com a biblioteca aiohttp. | aiohttp | ✅ |
 | 74  | Implementando um simples web scraper com Selenium. | Selenium | ✅ |
-| 75  | Trabalhando com APIs GraphQL usando requests. | requests | - |
+| 75  | Trabalhando com APIs GraphQL usando requests. | requests | ✅ |
 | 76  | Gerando imagens com texto sobreposto usando Pillow. | Pillow | - |
 | 77  | Construindo um sistema básico de chat com sockets. | socket | - |
 | 78  | Implementando um algoritmo de busca em largura (BFS) em um grafo. | - | - |
