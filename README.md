@@ -79,7 +79,7 @@
 | 75  | Trabalhando com APIs GraphQL usando requests. | requests | ✅ |
 | 76  | Gerando imagens com texto sobreposto usando Pillow. | Pillow | ✅ |
 | 77  | Construindo um sistema básico de chat com sockets. | socket | ✅ |
-| 78  | Implementando um algoritmo de busca em largura (BFS) em um grafo. | - | - |
+| 78  | Implementando um algoritmo de busca em largura (BFS) em um grafo. | - | ✅ |
 | 79  | Criando visualizações em 3D com Matplotlib. | Matplotlib | - |
 | 80  | Trabalhando com mensagens assíncronas usando RabbitMQ. | pika | - |
 | 81  | Criando modelos preditivos simples com scikit-learn. | scikit-learn | - |
