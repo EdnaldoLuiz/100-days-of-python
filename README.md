@@ -82,7 +82,7 @@
 | 78  | Implementando um algoritmo de busca em largura (BFS) em um grafo. | - | ✅ |
 | 79  | Criando visualizações em 3D com Matplotlib. | Matplotlib | ✅ |
 | 80  | Trabalhando com mensagens assíncronas usando RabbitMQ. | pika | ✅ |
-| 81  | Criando modelos preditivos simples com scikit-learn. | scikit-learn | - |
+| 81  | Criando modelos preditivos simples com scikit-learn. | scikit-learn | ✅ |
 | 82  | Trabalhando com pipelines de machine learning. | scikit-learn | - |
 | 83  | Processando áudio e extraindo características com Librosa. | librosa | - |
 | 84  | Trabalhando com paralelismo usando Dask para grandes volumes de dados. | dask | - |
