@@ -86,7 +86,7 @@
 | 82  | Trabalhando com pipelines de machine learning. | scikit-learn | ✅ |
 | 83  | Processando áudio e extraindo características com Librosa. | librosa | ✅ |
 | 84  | Trabalhando com paralelismo usando Dask para grandes volumes de dados. | dask | ✅ |
-| 85  | Criando uma aplicação CLI interativa com a biblioteca Click. | Click | - |
+| 85  | Criando uma aplicação CLI interativa com a biblioteca Click. | Click | ✅ |
 | 86  | Analisando dados em tempo real com Apache Kafka. | kafka-python | - |
 | 87  | Criando um servidor HTTP simples com manipulação de requisições GET e POST. | http | - |
 | 88  | Processando vídeos e capturando frames com OpenCV. | OpenCV | - |
