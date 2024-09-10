@@ -89,7 +89,7 @@
 | 85  | Criando uma aplicação CLI interativa com a biblioteca Click. | Click | ✅ |
 | 86  | Analisando dados em tempo real com Apache Kafka. | kafka-python | ✅ |
 | 87  | Criando um servidor HTTP simples com manipulação de requisições GET e POST. | http | ✅ |
-| 88  | Processando vídeos e capturando frames com OpenCV. | OpenCV | - |
+| 88  | Processando vídeos e capturando frames com OpenCV. | OpenCV | ✅ |
 | 89  | Explorando visualizações avançadas com Altair. | Altair | - |
 | 90  | Implementando um crawler distribuído com Scrapy. | Scrapy | - |
 | 91  | Realizando análises de sentimentos com TextBlob. | TextBlob | - |
