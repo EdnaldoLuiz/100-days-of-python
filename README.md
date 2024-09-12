@@ -91,7 +91,7 @@
 | 87  | Criando um servidor HTTP simples com manipulação de requisições GET e POST. | http | ✅ |
 | 88  | Processando vídeos e capturando frames com OpenCV. | OpenCV | ✅ |
 | 89  | Explorando visualizações avançadas com Altair. | Altair | ✅ |
-| 90  | Implementando um crawler distribuído com Scrapy. | Scrapy | - |
+| 90  | Implementando um crawler distribuído com Scrapy. | Scrapy | ✅ |
 | 91  | Realizando análises de sentimentos com TextBlob. | TextBlob | - |
 | 92  | Processando grandes volumes de dados com PySpark. | PySpark | - |
 | 93  | Criando dashboards interativos com Dash. | Dash | - |
