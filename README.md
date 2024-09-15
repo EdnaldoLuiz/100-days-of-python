@@ -94,7 +94,7 @@
 | 90  | Implementando um crawler distribuído com Scrapy. | Scrapy | ✅ |
 | 91  | Realizando análises de sentimentos com TextBlob. | TextBlob | ✅ |
 | 92  | Processando grandes volumes de dados com PySpark. | PySpark | ✅ |
-| 93  | Criando dashboards interativos com Dash. | Dash | - |
+| 93  | Criando dashboards interativos com Dash. | Dash | ✅ |
 | 94  | Trabalhando com mapas e geodados com Folium. | Folium | - |
 | 95  | Criando relatórios automatizados em PDF com ReportLab. | ReportLab | - |
 | 96  | Integrando e consumindo APIs de terceiros com OAuth2. | requests-oauthlib | - |
