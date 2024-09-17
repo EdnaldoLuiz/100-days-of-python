@@ -96,7 +96,7 @@
 | 92  | Processando grandes volumes de dados com PySpark. | PySpark | ✅ |
 | 93  | Criando dashboards interativos com Dash. | Dash | ✅ |
 | 94  | Trabalhando com mapas e geodados com Folium. | Folium | ✅ |
-| 95  | Criando relatórios automatizados em PDF com ReportLab. | ReportLab | - |
+| 95  | Criando relatórios automatizados em PDF com ReportLab. | ReportLab | ✅ |
 | 96  | Integrando e consumindo APIs de terceiros com OAuth2. | requests-oauthlib | - |
 | 97  | Trabalhando com dados em tempo real com websockets. | websockets | - |
 | 98  | Treinando um chatbot básico com ChatterBot. | ChatterBot | - |
