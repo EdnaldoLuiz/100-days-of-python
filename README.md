@@ -100,5 +100,5 @@
 | 96  | Integrando e consumindo APIs de terceiros com OAuth2. | requests-oauthlib | ✅ |
 | 97  | Trabalhando com dados em tempo real com websockets. | websockets | ✅ |
 | 98  | Treinando um chatbot básico com ChatterBot. | ChatterBot | ✅ |
-| 99  | Criando um modelo básico de NLP com spaCy. | spaCy | - |
+| 99  | Criando um modelo básico de NLP com spaCy. | spaCy | ✅ |
 | 100 | Desenvolvendo uma API de machine learning com FastAPI. | FastAPI | - |
