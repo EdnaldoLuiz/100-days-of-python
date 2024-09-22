@@ -1,3 +1,23 @@
+<h1 align=center>100 Days Of Python</h1>
+
+<div align="center">
+  <img src="https://c4.wallpaperflare.com/wallpaper/645/96/47/python-programming-programming-programming-language-code-hd-wallpaper-preview.jpg" alt="Python Logo"
+  width="600px"/>
+</div>
+
+## O que é isso?
+
+Esse Projeto é mais um da serie que eu faço inspirada em [#100DaysOfCode](https://medium.freecodecamp.org/join-the-100daysofcode-556ddb4579e4) do Free Code Camp, com algumas mudanças minhas, realizando 100 dias de desafios de linguagens/frameworks especificos, como por exemplo:
+-   [100 Days Of Java](https://github.com/EdnaldoLuiz/100-days-of-java)
+
+<div align=center>
+    <img src="https://repository-images.githubusercontent.com/344494700/f3cb0880-895f-11eb-8e3e-1eb4456d34df" alt="" width="600px">
+</div>
+
+## Porque eu fiz esse desafio?
+
+Eu já trabalhei como Engenheiro de Dados utilizando Python, então é uma linguagem que vejo um grande diferencial saber utilizar no nosso momento atual, se adequando as mais diversas areas, como Inteligencia artifical, Analise de dados, Engenharia de dados, Webscrapping e muitos outros, afinal, conhecimento não ocupa espaço.
+
 ## Desafios
 
 | Dia | Desafio | Recursos | Status |
@@ -101,4 +121,4 @@
 | 97  | Trabalhando com dados em tempo real com websockets. | websockets | ✅ |
 | 98  | Treinando um chatbot básico com ChatterBot. | ChatterBot | ✅ |
 | 99  | Criando um modelo básico de NLP com spaCy. | spaCy | ✅ |
-| 100 | Desenvolvendo uma API de machine learning com FastAPI. | FastAPI | - |
+| 100 | Desenvolvendo uma API de machine learning com FastAPI. | FastAPI | ✅ |
