@@ -7,16 +7,16 @@
 
 ## O que é isso?
 
-Esse Projeto é mais um da serie que eu faço inspirada em [#100DaysOfCode](https://medium.freecodecamp.org/join-the-100daysofcode-556ddb4579e4) do Free Code Camp, com algumas mudanças minhas, realizando 100 dias de desafios de linguagens/frameworks especificos, como por exemplo:
+Este projeto é mais um da série que faço, inspirado no [#100DaysOfCode](https://medium.freecodecamp.org/join-the-100daysofcode-556ddb4579e4) do Free Code Camp, com algumas adaptações minhas, realizando 100 dias de desafios de linguagens/frameworks específicos, como por exemplo:
 -   [100 Days Of Java](https://github.com/EdnaldoLuiz/100-days-of-java)
 
 <div align=center>
     <img src="https://repository-images.githubusercontent.com/344494700/f3cb0880-895f-11eb-8e3e-1eb4456d34df" alt="" width="600px">
 </div>
 
-## Porque eu fiz esse desafio?
+## Por que eu fiz esse desafio?
 
-Eu já trabalhei como Engenheiro de Dados utilizando Python, então é uma linguagem que vejo um grande diferencial saber utilizar no nosso momento atual, se adequando as mais diversas areas, como Inteligencia artifical, Analise de dados, Engenharia de dados, Webscrapping e muitos outros, afinal, conhecimento não ocupa espaço.
+Eu já trabalhei como Engenheiro de Dados utilizando Python, então vejo um grande diferencial em saber utilizar essa linguagem no nosso momento atual. Python se adequa a diversas áreas, como Inteligência Artificial, Análise de Dados, Engenharia de Dados, Web Scraping, Scripts que rodam no AWS Lambda geralmente utilizam Python e muitas outras. Afinal, conhecimento não ocupa espaço.
 
 ## Desafios
 
