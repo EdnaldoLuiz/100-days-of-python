@@ -8,7 +8,8 @@
 ## O que é isso?
 
 Este projeto é mais um da série que faço, inspirado no [#100DaysOfCode](https://medium.freecodecamp.org/join-the-100daysofcode-556ddb4579e4) do Free Code Camp, com algumas adaptações minhas, realizando 100 dias de desafios de linguagens/frameworks específicos, como por exemplo:
--   [100 Days Of Java](https://github.com/EdnaldoLuiz/100-days-of-java)
+- [100 Days Of Java](https://github.com/EdnaldoLuiz/100-days-of-java)
+- [100 Days Of NodeJS](https://github.com/EdnaldoLuiz/100-days-of-node-js)
 
 <div align=center>
     <img src="https://repository-images.githubusercontent.com/344494700/f3cb0880-895f-11eb-8e3e-1eb4456d34df" alt="" width="600px">
